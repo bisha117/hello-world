@@ -3,3 +3,5 @@
 aiueo
 kakikukeko
 sasisuseso
+
+あいうえお
