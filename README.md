@@ -5,3 +5,5 @@ kakikukeko
 sasisuseso
 
 あいうえお
+
+ルルーシュ
